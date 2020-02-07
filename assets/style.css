@@ -113,3 +113,26 @@ max-width: 100%;
 	border-radius: 50%;
 	background-color: #fff; 
 }
+
+.nose {
+	position: absolute;
+	left: 50%;
+	top: 120px;
+	transform: translate(-50%, -50%);
+	height: 200px;
+	width: 80px;
+	border-radius: 40% 40% 20px 20px;
+	background-color: #deb78c;
+	z-index: 0;
+}
+
+.mouth {
+	position: absolute;
+	left: 50%;
+	bottom: 100px;
+	transform: translate(-50%, -50%);
+	height: 20px;
+	width: 100px;
+	border-bottom: solid 5px #e8aa87;
+	border-radius: 50%;
+}
