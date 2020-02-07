@@ -6,5 +6,6 @@
 * псевдоэлементы :before и :after
 
 ```
-Задание было выполнено на занятиях [Digital Banana](https://digital-banana.ru)
+Задание было выполнено на занятиях:
 ```
+[Digital Banana](https://digital-banana.ru)
